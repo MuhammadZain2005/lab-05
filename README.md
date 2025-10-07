@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Muhammad Zain Asad
+- **CCID:** masad4
 
 ## References and Resources
 
